@@ -68,9 +68,9 @@ Add this to your `pubspec.yaml`:
 dependencies:
   royaltics_error_tracker:
     git:
-      url: git@github.com:royaltics/royaltics_error_tracker.git # Replace with your actual repo URL
+      url: https://github.com/royaltics-solutions/flutter_error_tracker.git # Replace with your actual repo URL
       path: flutter             # Important: points to the package subdirectory
-      ref: main                 # Optional: tag or branch
+      ref: main    
 ```
 
 ### Option 2: Local Path (For development)
